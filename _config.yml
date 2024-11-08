@@ -27,9 +27,13 @@ twitter_username: what_the_flux
 github_username: PiotrJerzy13
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sass-converter
+  
+sass:
+  sass_dir: assets/css
 
 
 # Exclude from processing.
