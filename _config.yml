@@ -7,7 +7,7 @@ twitter_username: what_the_flux
 github_username: PiotrJerzy13
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-sass-converter
