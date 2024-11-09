@@ -5,7 +5,7 @@ title: Welcome to What_the_Flux
 
 # Welcome to What the Flux
 
-This website is dedicated to the Campus Founders Challenge project. We are working on an innovative solution to create a value chain for electric car charging, aimed at encouraging relevant partners to contribute towards stabilizing the power grid and making electric mobility more affordable.
+This website is dedicated to the Corporate Campus Challenge project. We are working on an innovative solution to create a value chain for electric car charging, aimed at encouraging relevant partners to contribute towards stabilizing the power grid and making electric mobility more affordable.
 
 ## Our Research Clusters
 
